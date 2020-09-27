@@ -6,7 +6,10 @@ using namespace std;
 
 int main(){
 
-    cout<<"Hello, World!"<<endl;
+   int number;
+   cout<<"Enter a number:";
+   cin>>number;
+   cout<<"Number:"<<number<<endl;
 
    return 0;
 }
